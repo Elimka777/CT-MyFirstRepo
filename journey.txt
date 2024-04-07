@@ -1,2 +1,3 @@
-Hello, I'm part of Coding Temple community. 
+Hello, I'm part of the Coding Temple community. I'm currently in my learning proccess. Hope I learn to code with the help of CT!
+I'm starting to learn Python, very excited!
 My favourite text editor is Microsoft World.
